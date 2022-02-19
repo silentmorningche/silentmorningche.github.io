@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://silentmorningche.github.io</id>
     <title>沉晨说</title>
-    <updated>2022-01-15T06:40:31.891Z</updated>
+    <updated>2022-02-19T14:37:24.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://silentmorningche.github.io"/>
     <link rel="self" href="https://silentmorningche.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://silentmorningche.github.io/images/avatar.png</logo>
     <icon>https://silentmorningche.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 沉晨说</rights>
+    <entry>
+        <title type="html"><![CDATA[创站啦！创站啦！]]></title>
+        <id>https://silentmorningche.github.io/post/chuang-zhan-la-chuang-zhan-la/</id>
+        <link href="https://silentmorningche.github.io/post/chuang-zhan-la-chuang-zhan-la/">
+        </link>
+        <updated>2022-02-19T14:29:44.000Z</updated>
+        <content type="html"><![CDATA[<p>折腾了许久，终于找到一个免费且纯净的博客网站搭建方案。<br>
+以此为界，以后主要的小安利、小教程都会从本站发出。（主要是做视频太麻烦了。。。）<br>
+因为网站使用静态网站的模式，部分机器需重启才能获取到最新文章。<br>
+本站的第一篇文章，就先简短的写这么几行啦！<br>
+别忘了关注本站哦！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网站搭建软件的小说明]]></title>
         <id>https://silentmorningche.github.io/post/hello-gridea/</id>
