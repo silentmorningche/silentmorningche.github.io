@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://silentmorningche.github.io</id>
+    <title>沉晨说</title>
+    <updated>2022-11-30T13:42:47.699Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://silentmorningche.github.io"/>
+    <link rel="self" href="https://silentmorningche.github.io/atom.xml"/>
+    <subtitle>沉晨说的小站</subtitle>
+    <logo>https://silentmorningche.github.io/images/avatar.png</logo>
+    <icon>https://silentmorningche.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 沉晨说</rights>
+    <entry>
+        <title type="html"><![CDATA[关于网页的小介绍]]></title>
+        <id>https://silentmorningche.github.io/post/zhandianjieshao/</id>
+        <link href="https://silentmorningche.github.io/post/zhandianjieshao/">
+        </link>
+        <updated>2022-11-30T12:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Hello！欢迎来到我的小站！<br>
+本站以博客的形式为主。整体使用GitHub+Gridea搭建。<br>
+刚了解信息技术时会觉得网站不是一个很难搞得东西，但是当你真的着手去做时则不然。</p>
+<p>首先来说域名，也就是地址栏上的silentmorningche.github.io<br>
+域名本身不是一个复杂的工作，但是现在市面上能接触到的域名基本都需要收费绑定，整体价格在10元/年不等，如果使用“.net”“.com”等后缀费用可能会更高。<br>
+而我的域名是如何获取的呢？我是使用的GitHub的GitHub Page功能。该功能是完全免费的，可以将一个开源的存储库中的HTML文件直接在库域名上运行，比如你现在看到的这样。这便意味着你可以在我的GitHub存储库中查看和下载该网页的所有源代码和文件。<br>
+<img src="https://silentmorningche.github.io/post-images/1669812502177.png" alt="" loading="lazy"><br>
+原网站：https://github.com/silentmorningche/silentmorningche.github.io</p>
+<p>域名的问题就算是解决，但问题也接踵而至。<br>
+GitHub是世界最大的开源代码平台，也意味着所有的界面都为英语。尽管可以通过浏览器的插件实现翻译，但机翻的专业术语基本无法辨认，只得靠大量的英语词汇量来辨认。<br>
+<img src="https://silentmorningche.github.io/post-images/1669813937080.png" alt="" loading="lazy"><br>
+原网站：https://github.com/<br>
+同时，GitHub的存储库使用的是库中的相对路径，这意味着大部分的代码需要进行相对路径的重写，同时也要求对数据库进行分类整理。</p>
+<p>上述问题要是说时间可以解决的话，访问问题就是个灾难。<br>
+GitHub的服务器在外国，虽然没有像谷歌一样被“墙”，但是也常常会出现链接超时的情况。尽管现在有一大堆的GitHub加速器，但是几乎所有的加速器都无法访问我的存储库，大抵是注册较晚未被host收录。<br>
+<img src="https://silentmorningche.github.io/post-images/1669813790920.png" alt="" loading="lazy"><br>
+故此，只得尝试直接连接。单纯观看还好，上传代码时，必定崩溃。一般要上传几次才能成功。<br>
+<img src="https://silentmorningche.github.io/post-images/1669813800047.png" alt="" loading="lazy"></p>
+<p>上文提及的国外访问问题，浏览器方面有所解决，基本不会出现访问失败的情况，但初次访问速度较慢。还请稍安勿躁，多多包涵。</p>
+<p>这便是GitHub搭建网页的利与弊，以及它的难度之大。在后期，我将会为各位推出如何使用GitHub+Gridea搭建网站的教程，敬请期待。</p>
+]]></content>
+    </entry>
+</feed>
